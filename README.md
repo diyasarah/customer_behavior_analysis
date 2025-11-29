@@ -22,7 +22,9 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 ## 🛠️ How to Use This Project
 
 1. **Clone the repository**
-   ```bash https://github.com/diyasarah/customer_behavior_analysis.git
+   ```bash
+   https://github.com/diyasarah/customer_behavior_analysis.git
+   cd customer_behavior_analysis
    ```
 2. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
 
